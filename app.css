@@ -1,0 +1,31 @@
+body{
+    background-image: url("https://wall.vn/wp-content/uploads/2020/03/hinh-nen-dep-may-tinh-1.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+}
+h1{
+    color: #ff0000;
+    font-size:50px;
+    font-family: sansserif;
+    line-height: 1.5;
+    text-decoration: underline;
+    text-decoration: none;
+    text-transform: uppercase;
+    /*uppercase <> lowercase*/
+    text-transform: capitalize;
+    border: 1px solid red;
+
+}
+p{
+    text-align:center;
+    color: black;
+    font-weight: 400;
+    text-indent: 50px;
+    width:600px;
+
+}
+img{
+    width: 500px;
+    height: auto;
+    max-width: 100%;
+}
