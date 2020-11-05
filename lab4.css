@@ -1,0 +1,27 @@
+.box{
+    background-color:#f5f4f4;
+    width: 1500px;
+    margin: 10px auto;
+}
+div{
+    background-color: #fafafa;
+}
+.item{
+    background-color: #fafafa;
+    border: 1px solid green;
+    float: left;
+    width: 300px;
+    text-align: center;
+    margin: 20px 35px;
+}
+h1{
+    text-transform: uppercase;
+}
+h2{
+    background-color: #222222;
+    color: #fafafa;
+    margin-bottom: -1px;
+}
+p{
+    font-size: 20px;
+}
