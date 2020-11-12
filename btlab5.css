@@ -1,0 +1,48 @@
+.form-group{
+    font-family: 'Roboto', sans-serif;
+
+}
+.box{
+    width: 500px;
+    height: 600px;
+    border: 1px red;
+    margin: auto;
+    box-sizing: border-box;
+    background-color: #f6f8f7;
+}
+.top{
+    text-align: center;
+}
+.than{
+    width: 400px;
+    margin:  auto;
+    box-sizing: border-box;
+    background-color: #ffffff;
+}
+.mid{
+    text-align: center;
+}
+.form-group{
+    margin-left: 35px;
+    margin-right: 35px;
+}
+input{
+    width: 150px;
+    height: 35px;
+    border-radius: 10px;
+}
+.button{
+    background-color: #4168dd;
+    border: 1px #4168dd;
+    text-align: center;
+    cursor: pointer;
+    height: 45px;
+    border-radius: 50px;
+    margin: 0px 35px 0px 35px;
+    font-size: 25px;
+}
+.signin{
+    text-align: center;
+    color: #4168dd;
+
+}
