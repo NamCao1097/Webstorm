@@ -1,0 +1,21 @@
+Index: app.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app.css	(date 1604144315795)
++++ app.css	(date 1604144315795)
+@@ -0,0 +1,12 @@
++h1{
++    color: #ff0000;/*rgb(255,0,0)*/
++    font-size: 50px;
++    font-family: sansserif;
++    line-height:_1.5;
++    text-align: centrel;
++
++}
++p{
++    text-align: justify;
++    color: green;
++}
+\ No newline at end of file

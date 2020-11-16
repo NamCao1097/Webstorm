@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76dc28f5-7c38-4378-a0d9-7b5638041410" name="Default Changelist" comment="layoutss7" />
+    <list id="10c24433-a917-4d70-ac8d-35d01a0b85af" name="New changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTTP Request" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jaxzFoHYztVqQpPOfwNFLfpPj6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LIBS/fontawesome-free-5.15.1" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Webstorm\LIBS\fontawesome-free-5.15.1" />
+      <recent name="D:\Webstorm\LIBS\Bootstrap3.4.1" />
+      <recent name="D:\Webstorm\LIBS" />
+      <recent name="D:\Webstorm\LIBS\bootstrap" />
+      <recent name="D:\Webstorm" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76dc28f5-7c38-4378-a0d9-7b5638041410" name="Default Changelist" comment="" />
+      <changelist id="10c24433-a917-4d70-ac8d-35d01a0b85af" name="New changelist" comment="" />
+      <created>1604056263787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604056263787</updated>
+      <workItem from="1604056265064" duration="154000" />
+      <workItem from="1604056492520" duration="9000" />
+      <workItem from="1604056505689" duration="760000" />
+      <workItem from="1604141311656" duration="82000" />
+      <workItem from="1604141431820" duration="8000" />
+      <workItem from="1604141498960" duration="6720000" />
+      <workItem from="1604149398595" duration="390000" />
+      <workItem from="1604149795962" duration="4066000" />
+      <workItem from="1604391847409" duration="3465000" />
+      <workItem from="1604400556962" duration="5047000" />
+      <workItem from="1604406064550" duration="6540000" />
+      <workItem from="1604478800500" duration="8937000" />
+      <workItem from="1604543739615" duration="6558000" />
+      <workItem from="1604572969631" duration="11181000" />
+      <workItem from="1604602896376" duration="6123000" />
+      <workItem from="1604622105899" duration="844000" />
+      <workItem from="1605005495363" duration="1716000" />
+      <workItem from="1605009243155" duration="7836000" />
+      <workItem from="1605164356466" duration="6919000" />
+      <workItem from="1605171385708" duration="416000" />
+      <workItem from="1605179153010" duration="10858000" />
+      <workItem from="1605236101639" duration="8055000" />
+      <workItem from="1605249752295" duration="444000" />
+      <workItem from="1605352327695" duration="7380000" />
+      <workItem from="1605362704742" duration="1440000" />
+      <workItem from="1605449145681" duration="5213000" />
+      <workItem from="1605492587575" duration="1074000" />
+    </task>
+    <task id="LOCAL-00001" summary="s2">
+      <created>1604142323090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604142323090</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ss2">
+      <created>1604147773624</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604147773624</updated>
+    </task>
+    <task id="LOCAL-00003" summary="btss2">
+      <created>1604397713804</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604397713804</updated>
+    </task>
+    <task id="LOCAL-00004" summary="btvnlab4">
+      <created>1604607687674</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604607687674</updated>
+    </task>
+    <task id="LOCAL-00005" summary="btvnlab5">
+      <created>1605170969721</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605170969721</updated>
+    </task>
+    <task id="LOCAL-00006" summary="btvnlab5">
+      <created>1605171647613</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605171647613</updated>
+    </task>
+    <task id="LOCAL-00007" summary="btvnlab5">
+      <created>1605171791228</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605171791228</updated>
+    </task>
+    <task id="LOCAL-00008" summary="layoutss6">
+      <created>1605243359270</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605243359270</updated>
+    </task>
+    <task id="LOCAL-00009" summary="layoutss7">
+      <created>1605493605578</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605493605578</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="s2" />
+    <MESSAGE value="ss2" />
+    <MESSAGE value="btss2" />
+    <MESSAGE value="btvnlab4" />
+    <MESSAGE value="btvnlab5" />
+    <MESSAGE value="layoutss6" />
+    <MESSAGE value="layoutss7" />
+    <option name="LAST_COMMIT_MESSAGE" value="layoutss7" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="153" key="#Web_Browsers" timestamp="1605354987900">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="480" y="153" key="#Web_Browsers/0.0.1366.728@0.0.1366.728" timestamp="1605354987900" />
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605359734317">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1605359734317" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1604143185923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604143185923" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1605171297750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1605171297750" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605171471885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605171471885" />
+    <state x="560" y="66" key="RollbackChangesDialog" timestamp="1604150173481">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="560" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604150173481" />
+    <state x="513" y="233" key="VCS.EditChangelistDialog" timestamp="1604143163983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="233" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1604143163983" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605243454895">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605243454895" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605171324493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1605171324493" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1604607994771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1604607994771" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1604394653106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604394653106" />
+  </component>
+</project>

@@ -1,0 +1,432 @@
+Index: lab5.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- lab5.html	(date 1605012773306)
++++ lab5.html	(date 1605012773306)
+@@ -0,0 +1,50 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title> Form demo</title>
++    <link rel="stylesheet" href="form.css">
++</head>
++<body>
++    <form action="#" method="get">
++        <div class="form-group">
++            <input class="ip-text" name = "fullname" type="text" placeholder="Fullname"/>
++        </div>
++        <div class="form-group">
++            <input class="ip-text" name = "email" type="email" placeholder="Email"/>
++        </div>
++        <div class="form-group">
++            <input class="ip-text" name = "pwd" type="password" placeholder="Password"/>
++        </div>
++        <div class="form-group">
++            <input class="ip-text" name = "birthday" type="date" placeholder="Birthday"/>
++        </div>
++        <div class="form-group">
++            <input class="ip-text" name = "mycolor" type="color" placeholder="Mycolor"/>
++        </div>
++        <div class="form-group">
++            <label><input type = "radio" name="gender" value="Nam"/> Nam</label>
++            <label><input type = "radio" name="gender" value="Nu"/> Nu</label>
++            <label><input type = "radio" name="gender" value="Nu"/> Khac</label>
++        </div>
++        <div class="form-group">
++            <label><input type="checkbox" checked name="ready"/> I'm ready</label>
++        </div>
++        <div class="form-group">
++            <select name="city">
++                <option>Vui long chon tinh thanh pho</option>
++                <option value="hn"> Ha Noi</option>
++                <option value="dn"> Da Nang</option>
++                <option value="nt"> Nha Trang</option>
++                <option value="hcm"> Ho Chi Minh</option>
++            </select>
++        </div>
++        <div class="form-group">
++            <textarea name="description" rows="10" cols="100" placeholder="Mo ta ban than"></textarea>
++            <button type="submit"> Submit</button>
++            <button type="reset"> Reset</button>
++            <button type="button"> Button</button>
++        </div>
++    </form>
++</body>
++</html>
+\ No newline at end of file
+Index: trenlop.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- trenlop.html	(date 1604406116146)
++++ trenlop.html	(date 1604406116146)
+@@ -0,0 +1,27 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Box model</title>
++    <link rel="stylesheet" href="app.css">
++</head>
++<body>
++<div>
++    <img src="Img/imgCV.jpg" height="300" width="300"/>
++    <p>Box model 1</p>
++
++</div>
++<div id=nt>
++    <img src="Img/imgCV.jpg" height="300" width="300"/>
++    <p>Box model 2</p>
++
++</div>
++<div>
++    <img src="Img/imgCV.jpg" height="300" width="300"/>
++    <p>Box model 3</p>
++
++</div>
++<span></span>
++
++</body>
++</html>
+\ No newline at end of file
+Index: form.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- form.css	(date 1605012773348)
++++ form.css	(date 1605012773348)
+@@ -0,0 +1,15 @@
++input{
++    width: 200px;
++    height: 35px;
++    color: red;
++    text-align: center;
++}
++.form-group{
++    float: left;
++    width: 100%;
++    margin-bottom: 15px;
++}
++.ip-text{
++
++}
++
+Index: app.css1.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app.css1.css	(date 1604411698850)
++++ app.css1.css	(date 1604411698850)
+@@ -0,0 +1,4 @@
++#box{
++    margin: 100px 0px 100px 0px;
++    float: left;
++}
+\ No newline at end of file
+Index: btlab3.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- btlab3.html	(date 1604579295085)
++++ btlab3.html	(date 1604579295085)
+@@ -0,0 +1,10 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>lab4</title>
++</head>
++<body>
++
++</body>
++</html>
+\ No newline at end of file
+Index: app1.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app1.css	(date 1604578999854)
++++ app1.css	(date 1604578999854)
+@@ -0,0 +1,66 @@
++body{
++    background-color: #fafafa;
++    font-family: 'Roboto', sans-serif;
++}
++img{
++    max-width: 100%;
++}
++#box{
++    width: 1100px;
++    float: none;
++    margin: 0 auto;
++    box-shadow: 0 0 5px #aaaaaa;
++    border-radius: 5px;
++    background-color: #f1f1f1;
++}
++#top{
++    float: left;
++    width: 100%;
++    background-color: #b9c2cb;
++    box-sizing: border-box;
++    padding-left: 390px;
++}
++#left{
++    float: left;
++    width: 300px;
++    background-color: #e8e8e8;
++    margin-left: 140px;
++    padding: 30px;
++    margin-top: -180px;
++    box-sizing: border-box;
++}
++#right{
++    float:left;
++    width: 750px ;
++    padding: 20px 40px 40px 400px;
++    box-sizing: border-box;
++}
++#top h1{
++    font-size: 60px;
++    margin: 60px 0 0;
++    text-transform: uppercase;
++}
++#top h2{
++    font-size: 20px;
++    text-transform: uppercase;
++    font-weight: 400;
++    margin: 10px 0 50px;
++}
++#left img{
++    border-radius: 100%;
++}
++#left h2,#right h2{
++    text-transform: uppercase;
++    font-size: 25px;
++    margin-top: 20px;
++    border-top: 1px solid #b9c2cb;
++    padding-top: 20px;
++}
++
++#right p{
++    font-size: 16px;
++    line-height: 1.5;
++}
++#left #contact,#right #profile{
++    border-top: none;
++}
+\ No newline at end of file
+Index: bt1trenlop.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- bt1trenlop.html	(date 1604578841781)
++++ bt1trenlop.html	(date 1604578841781)
+@@ -0,0 +1,39 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>bttl</title>
++    <link rel="stylesheet" href="app1.css">
++    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
++</head>
++<body>
++<div id="box">
++    <div id="top">
++        <h1>James Philips</h1>
++        <h2>Client relationship specialist</h2>
++    </div></div>
++    <div id="left">
++        <img src="Img/doremon.jpg"/>
++        <h2 id="contact">Contact</h2>
++        <p>8383-242-452</p>
++        <p>james@gmail.com</p>
++        <p>City, State</p>
++        <p>www.philips.com</p>
++        <h2>Education</h2>
++        <p><b>Your degree/ Major</b></p>
++        <p>University name</p>
++        <p>2018-2020</p>
++        <h2>Education</h2>
++        <p><b>Your degree/ Major</b></p>
++        <p>University name</p>
++        <p>2018-2020</p>
++    <div id="right">
++        <h2 id="profile">Profile</h2>
++        <p>Rõ ràng, ông Trump và đảng Cộng hòa đang cảm thấy áp lực hơn", phóng viên Alexis Daish của 9News nhận định.  "Điểm mấu chốt  là ông ấy cần phải giành chiến thắng ở nhiều bang thay vì một bang như ông Biden. Vị thế dẫn đầu của ông Trump ở Georgia đang ngày càng bị thu hẹp, hiện tại chỉ hơn đối thủ 23.000 phiếu, trong khi tại Pennsylvania, tình trạng tương tự cũng xảy ra. Vẫn còn hàng trăm nghìn phiếu bầu chưa được kiểm đếm tại đây</p>
++        <h2>Professional experience</h2>
++        <h3>Enter job title here</h3>
++        <p>Rõ ràng, ông Trump và đảng Cộng hòa đang cảm thấy áp lực hơn", phóng viên Alexis Daish của 9News nhận định.  "Điểm mấu chốt  là ông ấy cần phải giành chiến thắng ở nhiều bang thay vì một bang như ông Biden. Vị thế dẫn đầu của ông Trump ở Georgia đang ngày càng bị thu hẹp, hiện tại chỉ hơn đối thủ 23.000 phiếu, trong khi tại Pennsylvania, tình trạng tương tự cũng xảy ra. Vẫn còn hàng trăm nghìn phiếu bầu chưa được kiểm đếm tại đây</p>
++
++</div>	    </div>
++</body>
++</html>
+\ No newline at end of file
+Index: lab3.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- lab3.css	(date 1604585355614)
++++ lab3.css	(date 1604585355614)
+@@ -0,0 +1,13 @@
++.box{
++    background-color: #fafafa;
++}
++div{
++    border: 1px solid red ;
++    width: 350px;
++    background-color: #fafafa;
++}
++.SP1{
++    background-color: #fafafa;
++    box-sizing: border-box;
++    width: 350px;
++}
+\ No newline at end of file
+Index: app.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\r\nh1{\r\n    color: black;\r\n    font-size:30px;\r\n    font-family: sansserif;\r\n    line-height: 1.5;\r\n    text-decoration: underline;\r\n    text-decoration: none;\r\n    text-transform: uppercase;\r\n    /*uppercase <> lowercase*/\r\n    text-transform: capitalize;\r\n\r\n\r\n\r\n}\r\nh2{\r\n    color: black;\r\n    font-family: SansSerif;\r\n    font-size: 30px;\r\n    list-style-type: disc;\r\n}\r\nh3{\r\n    color: black;\r\n    font-family: SansSerif;\r\n    font-size: 30px;\r\n\r\n}\r\nh4{\r\n    color: black;\r\n    font-family: SansSerif;\r\n    font-size: 30px;\r\n    font-style: italic;\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app.css	(revision 956e87356789cb2c7c0afe7b0bb217945c91b79d)
++++ app.css	(date 1604604632209)
+@@ -1,33 +1,51 @@
+-
+-h1{
+-    color: black;
+-    font-size:30px;
+-    font-family: sansserif;
+-    line-height: 1.5;
+-    text-decoration: underline;
+-    text-decoration: none;
+-    text-transform: uppercase;
+-    /*uppercase <> lowercase*/
+-    text-transform: capitalize;
+-
+-
+-
++body{
++    background-color: #fafafa;
++}
++img{
++    max-width: 100%;
++}
++div{
++    background-color: white;
++    float: left;
++    /* left right none*/
++    width: 300px;
++    /*border: 10px solid blue;*/
++    box-shadow: 0px 0px 50px royalblue;/*tao bong mo vien*/
++    margin: 10px;
++    padding: 20px;
++    box-sizing: border-box;/*tao bong mo vien border*/
++    border-radius: 6px;/*bo goc*/
++}
++span{
++    float: left;
++    width: 300px;
++    height: 300px;
++    background-color: red;
++    border-radius: 100%;
++    transition: background-color 300ms;/*thoi gian chuyen dong tu tu*/
++    /*animation: den_giao_thong;/* khai baoham thuc thi*/
++    animation-duration: 2s;/*thoi gian thuc hien*/
++    animation-iteration-count: 5;/*so lan thuc hien*/
++}
++span:hover{
++    background-color: green;/*di chuot chuyen canh*/
+ }
+-h2{
+-    color: black;
+-    font-family: SansSerif;
+-    font-size: 30px;
+-    list-style-type: disc;
++@keyframes den_giao_thong {
++    from{
++        background-color: red;
++        width: 300px;
++    }
++    to{
++        background-color: green;
++        width: 500px;
++    }
+ }
+-h3{
+-    color: black;
+-    font-family: SansSerif;
+-    font-size: 30px;
+-
++#nt{
++    background-color: aqua;
+ }
+-h4{
+-    color: black;
+-    font-family: SansSerif;
+-    font-size: 30px;
+-    font-style: italic;
++#nt p{
++    color: red;
+ }
++#nt:hover p{
++    color: white;
++}
+\ No newline at end of file
+Index: btlab4.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Lab s4</title>\r\n    <link rel=\"stylesheet\" href=\"lab4.css\">\r\n</head>\r\n<body>\r\n<div class=\"box\">\r\n    <div class=\"top\">\r\n        <h1>*featured product</h1>\r\n    </div>\r\n    <div class=\"grid\">\r\n        <div class=\"item\">\r\n            <img src=\"Img/doremon.jpg\" height=\"200\" width=\"300\"/>\r\n            <h1>item 1</h1>\r\n            <p>\r\n                aaaaaaaaaaa\r\n                aaaaaaaaaaa\r\n            </p>\r\n            <h3>20$</h3>\r\n            <h2>PRODUCT DETAILS</h2>\r\n        </div>\r\n        <div class=\"item\">\r\n            <img src=\"Img/doremon.jpg\" height=\"200\" width=\"300\"/>\r\n            <h1>item 2</h1>\r\n            <p>\r\n                aaaaaaaaaaa\r\n                aaaaaaaaaaa\r\n            </p>\r\n            <h3>20$</h3>\r\n            <h2>PRODUCT DETAILS</h2>\r\n        </div>\r\n        <div class=\"item\">\r\n            <img src=\"Img/doremon.jpg\" height=\"200\" width=\"300\"/>\r\n            <h1>item 3</h1>\r\n            <p>\r\n                aaaaaaaaaaa\r\n                aaaaaaaaaaa\r\n            </p>\r\n            <h3>20$</h3>\r\n            <h2>PRODUCT DETAILS</h2>\r\n        </div>\r\n        <div class=\"item\">\r\n            <img src=\"Img/doremon.jpg\" height=\"200\" width=\"300\"/>\r\n            <h1>item 4</h1>\r\n            <p>\r\n                aaaaaaaaaaa\r\n                aaaaaaaaaaa\r\n            </p>\r\n            <h3>20$</h3>\r\n            <h2>PRODUCT DETAILS</h2>\r\n        </div>\r\n        <div class=\"item\">\r\n            <img src=\"Img/doremon.jpg\" height=\"200\" width=\"300\"/>\r\n            <h1>item 5</h1>\r\n            <p>\r\n                aaaaaaaaaaa\r\n                aaaaaaaaaaa\r\n            </p>\r\n            <h3>20$</h3>\r\n            <h2>PRODUCT DETAILS</h2>\r\n        </div>\r\n        <div class=\"item\">\r\n            <img src=\"Img/doremon.jpg\" height=\"200\" width=\"300\"/>\r\n            <h1>Item 6</h1>\r\n            <p>\r\n                aaaaaaaaaaa\r\n                aaaaaaaaaaa\r\n            </p>\r\n            <h3>20$</h3>\r\n            <h2>PRODUCT DETAILS</h2>\r\n        </div>\r\n        <div class=\"item\">\r\n            <img src=\"Img/doremon.jpg\" height=\"200\" width=\"300\"/>\r\n            <h1>Item 7</h1>\r\n            <p>\r\n                aaaaaaaaaaa\r\n                aaaaaaaaaaa\r\n            </p>\r\n            <h3>20$</h3>\r\n            <h2>PRODUCT DETAILS</h2>\r\n        </div>\r\n        <div class=\"item\">\r\n            <img src=\"Img/doremon.jpg\" height=\"200\" width=\"300\"/>\r\n            <h1>Item 8</h1>\r\n            <p>\r\n                aaaaaaaaaaa\r\n                aaaaaaaaaaa\r\n            </p>\r\n            <h3>20$</h3>\r\n            <h2>PRODUCT DETAILS</h2>\r\n        </div>\r\n    </div>\r\n</div>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- btlab4.html	(revision 956e87356789cb2c7c0afe7b0bb217945c91b79d)
++++ btlab4.html	(date 1604622170877)
+@@ -12,7 +12,8 @@
+     </div>
+     <div class="grid">
+         <div class="item">
+-            <img src="Img/doremon.jpg" height="200" width="300"/>
++
++            <img src="Img/doremon.jpg" height="200 " width="300"/>
+             <h1>item 1</h1>
+             <p>
+                 aaaaaaaaaaa
+Index: lab4.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>.box{\r\n    background-color:#f5f4f4;\r\n    width: 1500px;\r\n    margin: 10px auto;\r\n}\r\ndiv{\r\n    background-color: #fafafa;\r\n}\r\n.item{\r\n    background-color: #fafafa;\r\n    border: 1px solid green;\r\n    float: left;\r\n    width: 300px;\r\n    text-align: center;\r\n    margin: 20px 35px;\r\n}\r\nh1{\r\n    text-transform: uppercase;\r\n}\r\nh2{\r\n    background-color: #222222;\r\n    color: #fafafa;\r\n    margin-bottom: -1px;\r\n}\r\np{\r\n    font-size: 20px;\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- lab4.css	(revision 956e87356789cb2c7c0afe7b0bb217945c91b79d)
++++ lab4.css	(date 1605009237189)
+@@ -1,14 +1,14 @@
+ .box{
+     background-color:#f5f4f4;
+     width: 1500px;
+-    margin: 10px auto;
++    margin: 0px auto;/*can chinh layout*/
+ }
+ div{
+-    background-color: #fafafa;
++    background-color: #f5f4f4;
+ }
+ .item{
+     background-color: #fafafa;
+-    border: 1px solid green;
++    border: 1px solid green;/*tao vien*/
+     float: left;
+     width: 300px;
+     text-align: center;
