@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:  sans-serif;
+    font-size: 14px;
+    color: #222222;
+    background-color: #f2f2f2;
+}
+img{
+    max-width: 100%;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    float: none;
+}
+.header{
+    background-color: #ffffff;
+    border-bottom: 1px solid #f2f2f2;
+    padding: 30px 0;
+}
+.header .logo{
+    float: left;
+}
+.top-links{
+    float: right;
+}
+.logo a{
+    font-size: 25px;
+    line-height: 1;
+    text-decoration: none;
+}
+.top-links li{
+    list-style: none;
+    float: left;
+    margin-left: 30px;
+}
+.top-links li a{
+    line-height: 25px;
+    font-size: 15px;
+    text-decoration: none;
+}
+.nav{
+    background-color: #ffffff;
+    padding: 20px 0;
+    margin-bottom: 30px;
+}
+.menu li{
+    float: left;
+    list-style: none;
+    margin-right: 30px;
+}
+.menu li.last{
+    float: right;
+    margin-right: 0;
+}
+.content{
+    float: left;
+    width: 66.67%;
+    padding-right: 15px;
+}
+.sidebar{
+    float: left;
+    width: 33.33%;
+    padding-left: 15px;
+}
+.post{
+    float: left;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 30px;
+}
+.block{
+    float: left;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+.subcribe{
+    background-color: #666666;
+}

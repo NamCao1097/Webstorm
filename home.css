@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: "Bookman Old Style";
+    font-size: 14px;
+    background-color: #ffffff;
+    width: 100%;
+    margin: 0 auto;
+}
+.header{
+    background-color: #383838;
+    color: #ffffff;
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    text-align: center;
+}
+.menu{
+    clear: left;
+    width: 100%;
+    height: 200px;
+    background-color: #ffffff;
+}
+.menu .movic{
+    font-size: 30px;
+    color: #000;
+    text-align: center;
+    line-height: 200px;
+}
+.menu li{
+    float: left;
+    padding-right: 20px;
+    padding-left: 20px;
+    list-style: none;
+    margin-top: 150px;
+}
+.menu ul{
+  padding-left:80px;
+ }
+.menu ul li:hover{
+    background-color: darkgray;
+    color: #333333;
+    width: auto;
+    height: 30px;
+    line-height: 30px;
+}
