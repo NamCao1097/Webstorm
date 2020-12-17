@@ -1,0 +1,39 @@
+body{
+    font-size: 14px;
+    background-color: #ffffff;
+    width: 100%;
+    font-family: Poppins, Helvetica, Arial, sans-serif;
+}
+.box{
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+    border: 1px solid red;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+.box1{
+    padding-left: 100px;
+}
+.form-group{
+    border: 1px solid #d9d9cb;
+    background-color: #c0c0c0;
+    width: 80%;
+    height: 80px;
+    margin: 0 auto;
+}
+.form-group label,input{
+   width: 100px;
+    float: right;
+    padding-top: 10px;
+}
+.form-group input{
+    width: 60%;
+
+}
+h3{
+    float: left;
+    line-height: 40px;
+}
