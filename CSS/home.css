@@ -1,0 +1,157 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: Poppins,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    background-color: #ffffff;
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.top{
+    background-color: #383838;
+    color: #ffffff;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    float: left;
+    text-align: center;
+}
+.header{
+    width: 100%;
+    height: 130px;
+    background-color: #ffffff;
+}
+.header .movic{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 50px;
+    line-height: 130px;
+}
+.header .movic a{
+    color: black;
+    text-decoration: none;
+
+}
+.header .menu > ul > li{
+    color: #a0a0a0;
+    float: left;
+    padding-left: 10px;
+    padding-right: 20px;
+    text-indent: 10px;
+    list-style: none;
+    margin-top: 50px;
+
+}
+ul.root li a{
+    color: #414141;
+}
+.header .menu ul li a:hover{
+    text-decoration: none;
+    color: #a0a0a0;
+}
+.tools li{
+    list-style: none;
+    float: right;
+    font-size: 30px;
+    margin-right: 20px;
+    margin-top: 32px;
+}
+.tools li a{
+    color: black;
+}
+ul.submenu li{
+    clear: left;
+    list-style: none;
+}
+ul.root li{
+position: relative;
+}
+ul.submenu{
+    min-width:200px;
+    display: none;
+    position: absolute;
+}
+ul.submenu li a{
+    display: block;
+    margin: 5px 5px;
+}
+ul.root >li:hover ul.submenu{
+    display: block;
+}
+.submenu .home{
+    min-width: 250px;
+}
+.submenu .home .list-group .list{
+    margin-top: 40px;
+}
+.submenu .home .list-group .list li{
+    margin-bottom: 20px;
+}
+.submenu .shop{
+    width: 1400px;
+}
+.shop > .list-group{
+    float: left;
+    margin-top: 40px;
+    padding-right: 150px ;
+}
+.shop .list-group > .list a{
+    margin-top: 20px;
+}
+.submenu .shop .list-group .img{
+    float: left;
+}
+.shop .list-group .bestsub{
+    clear: left;
+    margin-top: -310px;
+}
+.shop .list-group .bestsub{
+    min-width: 100px;
+    float: left;
+}
+.submenu .product{
+    width: 650px;
+    height: 450px;
+}
+.submenu .product .list-group .list{
+    float: left;
+    padding-left:50px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.product .list-group > .list a{
+    margin-bottom: 20px;
+}
+.product .img .list{
+    text-align: center;
+}
+.submenu .page{
+    min-width: 250px;
+}
+.submenu .page .list-group .list{
+    margin-top: 40px;
+}
+.submenu .page .list-group .list li{
+    margin-bottom: 20px;
+}
+.submenu .blog{
+    width: 650px;
+    height: 500px;
+}
+.submenu .blog .list-group .list{
+    float: left;
+    padding-left:50px;
+    padding-right: 100px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.blog .list-group > .list a{
+    margin-bottom: 20px;
+}
+.blog .img .list{
+    text-align: center;
+}
