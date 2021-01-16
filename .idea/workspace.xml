@@ -19,10 +19,33 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76dc28f5-7c38-4378-a0d9-7b5638041410" name="Default Changelist" comment="layoutss7">
+    <list default="true" id="76dc28f5-7c38-4378-a0d9-7b5638041410" name="Default Changelist" comment="home1">
+      <change afterPath="$PROJECT_DIR$/nodejs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodejs/public/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/6h30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/CDL3_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/ao_kinh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/blog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/chan_giay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/doremon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/giay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/google_search_new_logo_icon_159150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/icon_email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/icon_fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/icon_g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/icon_in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/icon_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/icon_twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/icon_v.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/icon_wifi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/icon_yt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/nguoi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/none.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/slider2_2000x.jpg" beforeDir="false" />
     </list>
     <list id="10c24433-a917-4d70-ac8d-35d01a0b85af" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +68,7 @@
   </component>
   <component name="ProjectId" id="1jaxzFoHYztVqQpPOfwNFLfpPj6" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -55,9 +79,10 @@
     <property name="ChangesTree.GroupingKeys" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LIBS/fontawesome-free-5.15.1" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/Webstorm" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -113,6 +138,9 @@
       <workItem from="1605449145681" duration="5213000" />
       <workItem from="1605492587575" duration="2455000" />
       <workItem from="1605611407785" duration="8239000" />
+      <workItem from="1610796675465" duration="55000" />
+      <workItem from="1610796750490" duration="269000" />
+      <workItem from="1610800615559" duration="104000" />
     </task>
     <task id="LOCAL-00001" summary="s2">
       <created>1604142323090</created>
@@ -184,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605493797232</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="home1">
+      <created>1608382516506</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608382516506</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,52 +245,8 @@
     <MESSAGE value="btvnlab5" />
     <MESSAGE value="layoutss6" />
     <MESSAGE value="layoutss7" />
-    <option name="LAST_COMMIT_MESSAGE" value="layoutss7" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="480" y="153" key="#Web_Browsers" timestamp="1605354987900">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="480" y="153" key="#Web_Browsers/0.0.1366.728@0.0.1366.728" timestamp="1605354987900" />
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605359734317">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1605359734317" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1604143185923">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604143185923" />
-    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1605171297750">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1605171297750" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605171471885">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605171471885" />
-    <state x="560" y="66" key="RollbackChangesDialog" timestamp="1604150173481">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="560" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604150173481" />
-    <state x="513" y="233" key="VCS.EditChangelistDialog" timestamp="1604143163983">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="513" y="233" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1604143163983" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605493807415">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605493807415" />
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605171324493">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1605171324493" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1604607994771">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1604607994771" />
-    <state x="346" y="49" key="search.everywhere.popup" timestamp="1604394653106">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604394653106" />
+    <MESSAGE value="home" />
+    <MESSAGE value="home1" />
+    <option name="LAST_COMMIT_MESSAGE" value="home1" />
   </component>
 </project>
